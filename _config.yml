@@ -24,7 +24,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Caltech Admissions blogging: "https://studentblog.caltech.edu/author/skishore/"
+  Caltech Admissions blogging: '<a href="https://studentblog.caltech.edu/author/skishore/" target="_blank">Caltech Admissions blogging</a>'
   Resume: "resume" 
 
 ################
