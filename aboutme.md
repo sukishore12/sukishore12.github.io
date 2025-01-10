@@ -1,16 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: CS, Political Science (2025)
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi! I'm Sulekha (su-lay-ka) Kishore, a fourth-year undergraduate at Caltech. I'm studying Computer Science and Political Science. I'm interested in exploring algorithmic fairness and equitable decision-making in ML models. AT Caltech, I've been fortunate to have worked with Prof. [Mike Alvarez] (https://www.hss.caltech.edu/people/r-michael-alvarez), Prof. [Adam Wierman] (https://www.cms.caltech.edu/people/adamw), and Prof. [Soon-Jo Chung] (https://www.eas.caltech.edu/people/sjchung). 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Outside of academics, I captain Caltech's ulitmate frisbee team (go Aftermath!), love surfing, and to go hiking. I'm involved with the Caltech Y, especially through the Student Activism Speaker Series. I also organize the Southern California Science Olympiad State Tournament through Caltech Science Olympiad Planning team. 
