@@ -1,10 +1,11 @@
 ---
 layout: post
 title: DC Science Policy Trip
-subtitle: There's lots to learn!
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+subtitle: So much to learn!
+cover-img: /assets/img/dc_trip/ostp1.jpg
+thumbnail-img: /assets/dc_trip/ostp1.jpg
+share-img: /assets/img/dc_trip/ostp1.jpg
+tags: [science policy]
 comments: true
 mathjax: true
 author: Sulekha Kishore
