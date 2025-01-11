@@ -2,7 +2,6 @@
 layout: post
 title: DC Science Policy Trip
 subtitle: So much to learn!
-cover-img: /assets/img/dc_trip/ostp1.jpg
 thumbnail-img: /assets/dc_trip/ostp1.jpg
 share-img: /assets/img/dc_trip/ostp1.jpg
 tags: [science policy]
@@ -17,5 +16,7 @@ Our first session was with Dr. Arati Prabhakar, Director of the White House Offi
 
 ![OSTP](/assets/img/dc_trip/ostp1.jpg){: .mx-auto.d-block :}
 *Session with OSTP at the Eisenhover Executive Building*
+
+Other agencies we visited with: OSTP, Department of Energy, NASA, DARPA, OMB, FDA, and staffers from the Senate Committee & House Committee! 
 
 [Work in Progress!]
