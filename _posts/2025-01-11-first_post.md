@@ -2,7 +2,7 @@
 layout: post
 title: DC Science Policy Trip
 subtitle: So much to learn!
-thumbnail-img: /assets/dc_trip/ostp1.jpg
+thumbnail-img: /assets/img/dc_trip/ostp1.jpg
 share-img: /assets/img/dc_trip/ostp1.jpg
 tags: [science policy]
 comments: true
