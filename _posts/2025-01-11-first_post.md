@@ -1,5 +1,6 @@
 ---
 layout: post
+hide: false
 title: DC Science Policy Trip
 subtitle: So much to learn!
 thumbnail-img: /assets/img/dc_trip/ostp1.jpg
