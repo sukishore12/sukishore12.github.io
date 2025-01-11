@@ -8,7 +8,6 @@ share-img: /assets/img/dc_trip/ostp1.jpg
 tags: [science policy, travel]
 comments: true
 mathjax: true
-author: Sulekha Kishore
 ---
 
 This past December, I had the opportunity to organize and go on the Caltech Y's DC Science Policy Trip! As one of the student organizers, I was super excited to see 4+ months of organizing translate into real life. We had 4 days of packed with sessions with many Caltech alums in various aspects of science policy.
