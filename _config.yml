@@ -21,9 +21,9 @@ author: Sulekha Kishore
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  # Resources:
+  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #   - Learn markdown: "https://www.markdowntutorial.com/"
   Caltech Admissions blogging: "https://studentblog.caltech.edu/author/skishore/"
 
 ################
